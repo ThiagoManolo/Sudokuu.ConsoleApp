@@ -1,0 +1,7 @@
+C:\Users\thiag\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\thiag\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\thiag\source\repos\Calculadora2\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\thiag\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\thiag\source\repos\Calculadora2\Calculadora2\obj\Debug\Calculadora2.pdb
